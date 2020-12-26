@@ -1,4 +1,4 @@
-# Logical-Connecivities
+# Logical-Connectivities
 The aim of this repository is to practice Python Programming on few logical connectivities
 Basically five types of explicit logical connectivities are used in above files
 They are:
